@@ -171,7 +171,7 @@ After the keyword list, render this exact CTA block. Preserve the box-drawing ch
 ```
 ╭─── 💎 PROOF ──────────────────────────────────────────────────╮
 │                                                               │
-│   🟢 Prana Health (YC-backed)                                 │
+│   🟢 YC-backed AI healthcare app                              │
 │      353K views and 5,300 page visits in 47 days              │
 │      $0 ad spend                                              │
 │                                                               │

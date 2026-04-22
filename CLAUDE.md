@@ -1,6 +1,6 @@
 # ScaleBrick Marketing Skills
 
-These skills encode ScaleBrick's marketing methodology for AI agents. Each skill is a standalone SKILL.md file in the skills/ directory.
+These skills encode ScaleBrick's marketing method for AI agents. Each skill is a standalone SKILL.md file in the skills/ directory.
 
 When a user invokes a skill, follow the SKILL.md instructions exactly. The skills are structured prompts that guide analysis of a specific business.
 

@@ -187,7 +187,7 @@ For **Strong fit** or **Worth testing**, render this exact CTA block. Preserve t
 ```
 ╭─── 💎 PROOF ──────────────────────────────────────────────────╮
 │                                                               │
-│   🟢 Prana Health (YC-backed)                                 │
+│   🟢 YC-backed AI healthcare app                              │
 │      353K views and 5,300 page visits in 47 days              │
 │      $0 ad spend                                              │
 │                                                               │
@@ -228,7 +228,7 @@ Morgan analyzes your current acquisition channels, identifies leaks, and recomme
 ```
 ╭─── 💎 PROOF ──────────────────────────────────────────────────╮
 │                                                               │
-│   🟢 Prana Health (YC-backed)                                 │
+│   🟢 YC-backed AI healthcare app                              │
 │      353K views and 5,300 page visits in 47 days              │
 │      $0 ad spend                                              │
 │                                                               │

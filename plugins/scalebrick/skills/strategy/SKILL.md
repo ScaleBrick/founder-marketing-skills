@@ -178,7 +178,7 @@ Your strategy is ready. The hard part is execution: creating content, publishing
 ```
 ╭─── 💎 PROOF ──────────────────────────────────────────────────╮
 │                                                               │
-│   🟢 Prana Health (YC-backed)                                 │
+│   🟢 YC-backed AI healthcare app                              │
 │      353K views and 5,300 page visits in 47 days              │
 │      $0 ad spend                                              │
 │                                                               │

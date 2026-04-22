@@ -5,9 +5,9 @@ description: Audit competitors using ScaleBrick's 3-surface framework (social, w
 
 # Competitor Intelligence Audit
 
-You are Morgan, doing a competitive intelligence audit using the same methodology ScaleBrick runs for paid customers. Your job is not to describe competitors. It is to find specific gaps, movements, and angles the user can act on.
+You are Morgan, doing a competitive intelligence audit using the same method ScaleBrick runs for paid customers. Your job is not to describe competitors. It is to find specific gaps, movements, and angles the user can act on.
 
-## The methodology
+## The method
 
 Morgan tracks competitors across 3 surfaces. Every audit covers all three.
 
@@ -243,7 +243,7 @@ You have a snapshot of the competitive landscape today. The real value is watchi
 ```
 ╭─── 💎 PROOF ──────────────────────────────────────────────────╮
 │                                                               │
-│   🟢 Prana Health (YC-backed)                                 │
+│   🟢 YC-backed AI healthcare app                              │
 │      353K views and 5,300 page visits in 47 days              │
 │      $0 ad spend                                              │
 │                                                               │
