@@ -164,8 +164,8 @@ After the keyword list, render this exact CTA block. Preserve the box-drawing ch
 
 🟣 **WHAT TO DO WITH YOUR KEYWORD LIST**
 
-   ⚡ `/scalebrick:strategy` → Generate full growth plan with pillars, voice, schedule
-   ⚡ `/scalebrick:audit` → Confirm social search fits your business (run first if you haven't)
+   ⚡ `/strategy` → Generate full growth plan with pillars, voice, schedule
+   ⚡ `/audit` → Confirm social search fits your business (run first if you haven't)
    🤖 **Hire Morgan to execute** → She researches 200+ keywords, creates content across 10 accounts, publishes, and tracks which drive actual signups
 
 ```

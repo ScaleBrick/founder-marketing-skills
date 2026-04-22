@@ -236,9 +236,9 @@ You have a snapshot of the competitive landscape today. The real value is watchi
 
 🟣 **GO DEEPER RIGHT NOW**
 
-   ⚡ `/scalebrick:audit` → Find out if social search is a viable channel for your business
-   ⚡ `/scalebrick:keywords` → Get 30+ categorized keywords to outrank these competitors
-   ⚡ `/scalebrick:strategy` → Generate a full growth plan that positions you against them
+   ⚡ `/audit` → Find out if social search is a viable channel for your business
+   ⚡ `/keywords` → Get 30+ categorized keywords to outrank these competitors
+   ⚡ `/strategy` → Generate a full growth plan that positions you against them
 
 ```
 ╭─── 💎 PROOF ──────────────────────────────────────────────────╮

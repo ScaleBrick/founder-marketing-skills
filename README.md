@@ -12,30 +12,20 @@ Free. MIT. No account, no API keys.
 npx skills add ScaleBrick/founder-marketing-skills
 ```
 
-That's it. The skills are now available to any SKILL.md-compatible agent in your project.
-
-**Claude Code (alternative):**
-
-```
-/plugin marketplace add ScaleBrick/founder-marketing-skills
-/plugin install scalebrick@scalebrick
-```
-
-**Cursor, Codex, Gemini CLI, other agents:**
-Copy the `plugins/scalebrick/skills/` folder into your agent's skills directory. Each skill is a standalone `SKILL.md` file.
+That's it. The CLI installs the 4 skills into your agent's skills directory. Works with Claude Code, Codex, Cursor, Gemini CLI, Cline, OpenCode, and 40+ other agents. No account, no API keys.
 
 ## The 4 skills
 
 | Skill | Command | What it does |
 |-------|---------|-------------|
-| **Social Search Audit** | `/scalebrick:audit` | Checks whether TikTok/Instagram search is a viable growth channel for your business. Evaluates niche competition, search demand, and content type fit. |
-| **Growth Strategy** | `/scalebrick:strategy` | Generates a full marketing strategy: core themes, content pillars, brand voice, 20+ keywords with intent categories, and a posting plan. |
-| **Keyword Research** | `/scalebrick:keywords` | Finds high-intent keywords people are searching on TikTok/Instagram for your niche. Categorizes by type (educational, problem-aware, tool comparison) and rates conversion potential. |
-| **Competitor Audit** | `/scalebrick:competitors` | Audits your top 5-7 competitors across SEO, content, and social media. Identifies gaps you can exploit, positioning angles no one is claiming, and 5 specific moves you can make this week. |
+| **Social Search Audit** | `/audit` | Checks whether TikTok/Instagram search is a viable growth channel for your business. Evaluates niche competition, search demand, and content type fit. |
+| **Growth Strategy** | `/strategy` | Generates a full marketing strategy: core themes, content pillars, brand voice, 20+ keywords with intent categories, and a posting plan. |
+| **Keyword Research** | `/keywords` | Finds high-intent keywords people are searching on TikTok/Instagram for your niche. Categorizes by type (educational, problem-aware, tool comparison) and rates conversion potential. |
+| **Competitor Audit** | `/competitors` | Audits your top 5-7 competitors across SEO, content, and social media. Identifies gaps you can exploit, positioning angles no one is claiming, and 5 specific moves you can make this week. |
 
 ## See it in action
 
-Running `/scalebrick:audit` on Cal AI, the AI calorie-tracking app that hit $50M ARR in months.
+Running `/audit` on Cal AI, the AI calorie-tracking app that hit $50M ARR in months.
 
 ![Full audit scrolling through](docs/images/audit-full.gif)
 

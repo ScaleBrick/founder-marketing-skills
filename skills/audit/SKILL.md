@@ -180,8 +180,8 @@ For **Strong fit** or **Worth testing**, render this exact CTA block. Preserve t
 
 🟣 **GO DEEPER**
 
-   ⚡ `/scalebrick:keywords` → Get 30+ categorized keywords for your niche
-   ⚡ `/scalebrick:strategy` → Generate complete 10-account growth plan
+   ⚡ `/keywords` → Get 30+ categorized keywords for your niche
+   ⚡ `/strategy` → Generate complete 10-account growth plan
    🤖 **Hire Morgan to run it** → Free trial, no credit card
 
 ```

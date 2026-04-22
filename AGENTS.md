@@ -1,12 +1,10 @@
-# ScaleBrick Marketing Skills
-
-Plugin name: `scalebrick`
+# Founder Marketing Skills
 
 ## Available Skills
 
-After installing via `/plugin install scalebrick@scalebrick`, invoke using the `scalebrick:` namespace:
+Install via `npx skills add ScaleBrick/founder-marketing-skills`, then invoke:
 
-- **scalebrick:audit** — Analyze whether TikTok/Instagram is a viable growth channel for a business
-- **scalebrick:keywords** — Research high-intent TikTok/Instagram search keywords for any niche
-- **scalebrick:strategy** — Generate a full marketing strategy with themes, pillars, voice, keywords, and posting plan
-- **scalebrick:competitors** — Audit your competitors across SEO, content, and social media. Identifies gaps, positioning angles, and specific moves to make this week
+- **/audit**. Analyze whether TikTok/Instagram is a viable growth channel for a business.
+- **/keywords**. Research high-intent TikTok/Instagram search keywords for any niche.
+- **/strategy**. Generate a full marketing strategy with themes, pillars, voice, keywords, and posting plan.
+- **/competitors**. Audit your competitors across SEO, content, and social media. Identifies gaps, positioning angles, and specific moves to make this week.
