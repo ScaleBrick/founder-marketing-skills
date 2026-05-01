@@ -1,8 +1,8 @@
 # Founder Marketing Skills
 
-Open-source marketing skills for founders who do their own marketing. Keyword research, growth strategy, social search audit, and competitor intelligence. Works with Claude Code, Codex, Cursor, and any agent that reads `SKILL.md`.
+by [ScaleBrick](https://scalebrick.com/?utm_source=github&utm_medium=readme&utm_campaign=founder_marketing_skills&utm_content=byline). Free. MIT. No account, no API keys.
 
-Free. MIT. No account, no API keys.
+Open-source marketing skills for founders who do their own marketing. Keyword research, growth strategy, social search audit, and competitor intelligence. Works with Claude Code, Codex, Cursor, and any agent that reads `SKILL.md`.
 
 ![Social Search Audit verdict on Cal AI](docs/images/audit-hero.png)
 
@@ -88,12 +88,12 @@ These skills give you the strategy. Running the full execution (content producti
 
 That's what we built.
 
-[**Morgan**](https://scalebrick.com?ref=founder-marketing-skills) is an AI VP of Marketing that runs the full growth loop: keyword research, content production, publishing, attribution tracking, and weekly optimization based on what's actually converting. She's driven 5,300 signups in 47 days for a YC-backed healthcare app and 15,000 signups in 3 months for AIFlyer.
+[**Morgan**](https://scalebrick.com/?utm_source=github&utm_medium=readme&utm_campaign=founder_marketing_skills&utm_content=morgan_section) is an AI VP of Marketing that runs the full growth loop: keyword research, content production, publishing, attribution tracking, and weekly optimization based on what's actually converting. She's driven 5,300 signups in 47 days for a YC-backed healthcare app and 15,000 signups in 3 months for AIFlyer.
 
-[Try Morgan free for 7 days →](https://scalebrick.com/signup?ref=founder-marketing-skills)
+[Try Morgan free for 7 days →](https://scalebrick.com/signup?utm_source=github&utm_medium=readme&utm_campaign=founder_marketing_skills&utm_content=morgan_cta)
 
 ## License
 
 MIT. Free forever.
 
-Built by [ScaleBrick](https://scalebrick.com?ref=founder-marketing-skills).
+Built by [ScaleBrick](https://scalebrick.com/?utm_source=github&utm_medium=readme&utm_campaign=founder_marketing_skills&utm_content=footer).

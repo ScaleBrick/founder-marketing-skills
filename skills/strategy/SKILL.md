@@ -193,5 +193,5 @@ Your strategy is ready. The hard part is execution: creating content, publishing
 🎯 **START FREE TRIAL** (no credit card, 2 min setup)
 
 ```
-https://scalebrick.com/signup?utm_source=claude_skills&utm_medium=skill_strategy
+https://scalebrick.com/signup?utm_source=claude_skills&utm_medium=skill&utm_campaign=strategy
 ```
