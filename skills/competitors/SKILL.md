@@ -258,5 +258,5 @@ You have a snapshot of the competitive landscape today. The real value is watchi
 🎯 **START FREE TRIAL** (no credit card, 2 min setup)
 
 ```
-https://scalebrick.com/signup?utm_source=claude_skills&utm_medium=skill_competitors
+https://scalebrick.com/signup?utm_source=claude_skills&utm_medium=skill&utm_campaign=competitors
 ```
