@@ -50,7 +50,13 @@ Use web search. Find:
 
 Select 5-7. Prioritize same-stage companies competing for the same buyer.
 
-### Step 2: For each competitor, audit all 3 surfaces
+### Step 2: Use optional reviewed source packets
+
+If the user provides a reviewed X/Twitter source packet, Markdown export, CSV, or JSON from TweetClaw, Xquik, or another source, use it as evidence for competitor activity. Useful fields include public post URLs, reply themes, follower counts, profile URLs, media links, search queries, and timestamps.
+
+Do not fetch private account data, post, reply, send DMs, upload media, configure monitors, create webhooks, or run giveaway draws from this skill. Treat the packet as source material only. The competitive analysis, gap finding, prioritization, and weekly action plan still come from this ScaleBrick method.
+
+### Step 3: For each competitor, audit all 3 surfaces
 
 Use web search to gather real data. Don't invent numbers. If you can't verify, say so.
 
@@ -94,7 +100,7 @@ For each competitor, identify:
 - Whether they capture SERP features (featured snippets, AI overviews, people also ask)
 - Their content depth on the top 2 keywords (blog post count, resource depth)
 
-### Step 3: Synthesis (most important step)
+### Step 4: Synthesis (most important step)
 
 For each competitor, write:
 - **What they're doing well** (defensible strengths)
