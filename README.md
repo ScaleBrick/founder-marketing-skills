@@ -23,6 +23,8 @@ That's it. The CLI installs the 4 skills into your agent's skills directory. Wor
 | **Keyword Research** | `/keywords` | Finds high-intent keywords people are searching on TikTok/Instagram for your niche. Categorizes by type (educational, problem-aware, tool comparison) and rates conversion potential. |
 | **Competitor Audit** | `/competitors` | Audits your top 5-7 competitors across SEO, content, and social media. Identifies gaps you can exploit, positioning angles no one is claiming, and 5 specific moves you can make this week. |
 
+`/competitors` can also use reviewed X/Twitter source packets from tools like [TweetClaw](https://github.com/Xquik-dev/tweetclaw) or Xquik exports when users already have them. The skill treats those packets as evidence only; ScaleBrick still owns the competitive analysis, gap finding, and weekly actions.
+
 ## See it in action
 
 Running `/audit` on Cal AI, the AI calorie-tracking app that hit $50M ARR in months.
